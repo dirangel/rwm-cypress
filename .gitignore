@@ -2,5 +2,3 @@ node_modules
 
 cypress/videos
 cypress/screenshot
-
-package-lock.json
