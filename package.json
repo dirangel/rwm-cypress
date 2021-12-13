@@ -1,0 +1,27 @@
+{
+  "name": "rwc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "npx cypress open",
+    "cy:run": "npx cypress run",
+    "lint": "npx eslint --fix '**/*.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.5.0",
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-chai-friendly": "^0.7.2",
+    "eslint-plugin-cypress": "^2.12.1",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.2.0"
+  },
+  "dependencies": {
+    "chance": "^1.1.8"
+  }
+}

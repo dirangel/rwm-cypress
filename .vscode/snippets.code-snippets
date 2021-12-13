@@ -1,0 +1,9 @@
+{
+	"References Cypress": {
+		"prefix": "cyref",
+		"body": [
+		 "/// <reference types=\"cypress\" />"
+		],
+		"description": "Adiciona autocomplete comandos Cypress"
+	 }
+}
